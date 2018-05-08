@@ -1,0 +1,912 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Pre",
+				"precio"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"dif",
+				"diferencia_fechas"
+			],
+			[
+				"fech",
+				"fecha_salida"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"vaali",
+				"validation_errors"
+			],
+			[
+				"valida",
+				"validation_errors"
+			],
+			[
+				"val",
+				"validation_errors"
+			],
+			[
+				"fecha",
+				"fecha_salida"
+			],
+			[
+				"feca",
+				"fecha_salida"
+			],
+			[
+				"feh",
+				"fecha_regreso"
+			],
+			[
+				"null",
+				"is_null"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"fil",
+				"_FILES"
+			],
+			[
+				"Fi",
+				"_FILES"
+			],
+			[
+				"pn",
+				"png"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"prec",
+				"precio_desc"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"pre",
+				"precio_desc"
+			],
+			[
+				"ima",
+				"imagen"
+			],
+			[
+				"cont",
+				"Contraseña"
+			],
+			[
+				"sign",
+				"signin"
+			],
+			[
+				"text-al",
+				"text-align"
+			],
+			[
+				"hora",
+				"hora_inicio"
+			],
+			[
+				"acti",
+				"actividad_data"
+			],
+			[
+				"inser",
+				"insert_horario"
+			],
+			[
+				"pone",
+				"ponente"
+			],
+			[
+				"nmbr",
+				"nombre_ponente"
+			],
+			[
+				"actividad",
+				"actividad_data"
+			],
+			[
+				"mat",
+				"material_ponente"
+			],
+			[
+				"nm",
+				"nombre_actividad"
+			],
+			[
+				"pon",
+				"ponentes"
+			],
+			[
+				"ponen",
+				"ponente"
+			],
+			[
+				"inse",
+				"insert_ponentes"
+			],
+			[
+				"pr",
+				"pprint"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"ac",
+				"actividad_rows"
+			],
+			[
+				"match",
+				"match_actvidad_horarios"
+			],
+			[
+				"row",
+				"row_list"
+			],
+			[
+				"num",
+				"num_actividad"
+			],
+			[
+				"nombr",
+				"nombre_actividad"
+			],
+			[
+				"cel",
+				"cell"
+			],
+			[
+				"cell",
+				"cell_list"
+			],
+			[
+				"repli",
+				"repli_rows"
+			],
+			[
+				"ubi",
+				"ubication"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"pp",
+				"pprint"
+			],
+			[
+				"repl",
+				"repli_rows"
+			],
+			[
+				"act",
+				"act_rows"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"id",
+				"id_producto"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"pro",
+				"productos"
+			],
+			[
+				"con",
+				"condicion"
+			],
+			[
+				"proye",
+				"proyecto_id"
+			],
+			[
+				"proyecto",
+				"proyecto_id"
+			],
+			[
+				"proe",
+				"proyecto"
+			],
+			[
+				"GRo",
+				"GROUP_CONTACT"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"marc",
+				"marca_id"
+			],
+			[
+				"marca",
+				"marca_id"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mx-au",
+				"mx-auto"
+			],
+			[
+				"pub",
+				"publicidad"
+			],
+			[
+				"sq",
+				"sql"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"fu",
+				"fun\tfunction …"
+			],
+			[
+				"publ",
+				"public"
+			],
+			[
+				"col",
+				"col-3"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"produc",
+				"product_len"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"array",
+				"array_combine"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"te",
+				"texto"
+			],
+			[
+				"nu",
+				"number1"
+			],
+			[
+				"oper",
+				"operator"
+			],
+			[
+				"ope",
+				"operator"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"co",
+				"commentsFile"
+			],
+			[
+				"text",
+				"textareaInput"
+			],
+			[
+				"las",
+				"lastnameInput"
+			],
+			[
+				"name",
+				"nameInput"
+			],
+			[
+				"arrayke",
+				"array_keys"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"al",
+				"alumno"
+			],
+			[
+				"ma",
+				"materia_name"
+			],
+			[
+				"matei",
+				"materia_name"
+			],
+			[
+				"cali",
+				"calificaciones"
+			],
+			[
+				"eli",
+				"elseif\telseif …"
+			],
+			[
+				"clai",
+				"calificaciones"
+			],
+			[
+				"valu",
+				"value_two"
+			],
+			[
+				"PRINT",
+				"print_r"
+			],
+			[
+				"mate",
+				"materias"
+			],
+			[
+				"ar",
+				"array\t$… = array (…)"
+			],
+			[
+				"ph",
+				"php"
+			],
+			[
+				"r",
+				"rgb"
+			],
+			[
+				"rgb",
+				"rgbcol"
+			],
+			[
+				"rg",
+				"rgbcol"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bACK",
+				"background-image"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"apar",
+				"aparato_cardiovascular"
+			],
+			[
+				"tet",
+				"text"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "cotizar.php",
+			"settings":
+			{
+				"buffer_size": 3329,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dreamtour.class.php",
+			"settings":
+			{
+				"buffer_size": 1734,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/proyecto",
+		"/C/xampp/htdocs/proyecto/admin"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/proyecto/deposito.class.php",
+		"/C/xampp/htdocs/proyecto/admin/productos.save.php",
+		"/C/xampp/htdocs/dreamtour/components/transportes.dropdown.php",
+		"/C/xampp/htdocs/dreamtour/css/main.css",
+		"/C/xampp/htdocs/proyecto/admin/marcas.form.php",
+		"/C/xampp/htdocs/dreamtour/signin.php",
+		"/C/xampp/htdocs/proyecto/admin/marcas.save.php",
+		"/C/xampp/htdocs/dreamtour/dreamtour.sublime-project",
+		"/C/xampp/htdocs/dreamtour/signup.php",
+		"/C/xampp/htdocs/dreamtour/footer.php",
+		"/C/xampp/htdocs/dreamtour/index.php",
+		"/C/xampp/htdocs/dreamtour/js/holder.min.js",
+		"/C/xampp/htdocs/proyecto/admin/productos.form.php",
+		"/C/xampp/htdocs/dreamtour/header.php",
+		"/C/xampp/htdocs/proyecto/header.php",
+		"/C/xampp/htdocs/proyecto/marcas.php",
+		"/C/xampp/htdocs/proyecto/admin/components/component.marcas.dropdown.php",
+		"/C/Users/AldoEscobar/Downloads/carousel/index.html",
+		"/C/xampp/htdocs/dreamtour/index.html",
+		"/C/xampp/htdocs/dreamtour/css/carousel.css",
+		"/C/xampp/htdocs/dreamtour/css/sticky-footer-navbar.css",
+		"/C/xampp/htdocs/dreamtour/test.php",
+		"/C/xampp/htdocs/dreamtour/css/signin.css",
+		"/C/xampp/htdocs/proyecto/footer.php",
+		"/C/xampp/htdocs/proyecto/clientes/login.php",
+		"/C/xampp/htdocs/proyecto/admin/productos.form_update.php",
+		"/C/xampp/htdocs/proyecto/productos.php",
+		"/C/xampp/htdocs/proyecto/css/main.css",
+		"/C/xampp/htdocs/proyecto/contacto.php",
+		"/C/xampp/htdocs/dreamtour/nav.html",
+		"/C/xampp/htdocs/proyecto/index.php",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/data/README.md",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/WebServicesSL/src/routes.php",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/README.md",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/WebServicesSL/index.php",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/.gitignore",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/data/data_from_sheets.py",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/data/DB.py",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/data/DB.example.py",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/data/client_secret.json",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/MoviesandBooks_AldoEscobar_CesarLopez-final/app/app/source/cloud/dependencies/db.py",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/sql/script_insert_templates.sql",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/sql/lince.sql",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/data/all_logs.logs",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/sql/lince_data.sql",
+		"/C/Users/AldoEscobar/DEVS/semana_lince/semana_lince/data/logs.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/AldoEscobar/Downloads/semanalince/WebServicesSL/src/routes.php",
+		"/C/Users/AldoEscobar/Downloads/semanalince/WebServicesSL/src/settings.php",
+		"/C/Users/AldoEscobar/Downloads/semanalince/WebServicesSL/src/ejemplos_routes.php",
+		"/C/Users/AldoEscobar/Downloads/semanalince/WebServicesSL/src/dependencies.php",
+		"/C/Users/AldoEscobar/Downloads/fut.html",
+		"/C/Users/AldoEscobar/Downloads/semanalince/WebServicesSL/.htaccess",
+		"/C/Users/AldoEscobar/Downloads/semanalince/WebServicesSL/index.php",
+		"/C/xampp/htdocs/proyecto/admin/productos.delete.php",
+		"/C/xampp/htdocs/proyecto/admin/footer.php",
+		"/C/xampp/htdocs/proyecto/admin/index.php",
+		"/C/xampp/htdocs/proyecto/proyectos.php",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/EjerciciosSQL/Ejercicios_SQL_2.sql",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/EjerciciosSQL/Ejercicios_SQL_1.sql",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/MoviesandBooks_AldoEscobar_CesarLopez-final/app/app/source/cloud/app/controllers/book_controller.py",
+		"/C/xampp/htdocs/proyecto/exercies/calc.php",
+		"/C/xampp/htdocs/proyecto/exercies/charcounter.php",
+		"/C/xampp/htdocs/proyecto/exercies/calificaciones.php",
+		"/C/xampp/htdocs/proyecto/comentario_guardar.php",
+		"/C/xampp/htdocs/proyecto/exercies/deposito.class_old.php",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/mysql/data/ibdata1",
+		"/C/htdocs/proyecto/productos.php",
+		"/C/htdocs/proyecto/marcas.php",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/MoviesandBooks_AldoEscobar_CesarLopez-final/CreationDB_script.sql",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/mysql/data/phpmyadmin/pma__users.frm",
+		"/C/xampp/htdocs/proyecto/productos.txt",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/alumnosSQL3.sql",
+		"/C/xampp/htdocs/proyecto/index.html",
+		"/C/xampp/htdocs/proyecto/flex_example.html",
+		"/C/xampp/htdocs/proyecto/charcounter.php",
+		"/C/xampp/htdocs/proyecto/sort.php",
+		"/C/xampp/htdocs/proyecto/calificaciones.php",
+		"/C/xampp/htdocs/proyecto/calc.php",
+		"/C/xampp/htdocs/proyecto/comments.txt",
+		"/C/Users/AldoEscobar/Downloads/productos.php",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/Parcial1/Archivo2.txt",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.C-S/Parcial1/Archivo1.txt",
+		"/C/Users/AldoEscobar/Downloads/verr.py",
+		"/C/Users/AldoEscobar/Downloads/text",
+		"/C/Users/AldoEscobar/Downloads/vernam.py",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/proyecto/index.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/proyecto/css/main.css",
+		"/C/Users/AldoEscobar/Downloads/pycol.py",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/proyecto/tiendas.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/proyecto/flex_example.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/proyecto/css/flex.css",
+		"/C/Users/AldoEscobar/Documents/NetBeansProjects/hilos2/src/hilos2/HiloEjemplo.java",
+		"/C/Users/AldoEscobar/Documents/NetBeansProjects/hilos2/src/hilos2/summationRoot.java",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/homework/calificaciones/index.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/homework/calificaciones/calificaciones.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/homework/historial_clinico.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/preferencias.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/etiquetas.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/contactos.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/login.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/index.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/proyecto/quienes_somos.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/homework/historial_clinico.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/proyecto.html",
+		"/C/xampp/htdocs/cyon/index.html",
+		"/C/xampp/htdocs/cyon/hoteles.php",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb/cyon/index.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/business.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/businesshistory",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/clienteservidor.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/gobiernoti.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/ejemplos/materias/httprfc",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/index.html",
+		"/C/Users/AldoEscobar/Documents/ITC/8ENEJUN18/P.Web/prograweb2.0/etiquetas.html",
+		"/C/Users/AldoEscobar/Documents/codigo-tramite-cambio-prop-versa",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/bookDetail.html",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/movieDetail.html",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/controllers/book_controller.py",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/dependencies/db.py",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/controllers/movie_controller.py",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/main.py",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/cloud/app/controllers/search_controller.py",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/movies.html",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/editBook.html",
+		"/C/Users/AldoEscobar/Documents/ITC/7AGODIC17/FDB/ProyectoFinal/app/app/source/templates/books.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 139.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"strto",
+			",",
+			"marca",
+			"$marca",
+			"carousel-caption",
+			"carousel-item",
+			"publici",
+			"images",
+			"_FILE",
+			"pooer",
+			"icon"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_FILES"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "cotizar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								850,
+								850
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dreamtour.class.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1511,
+								1511
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 321.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "dreamtour.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

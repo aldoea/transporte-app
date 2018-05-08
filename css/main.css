@@ -1,0 +1,33 @@
+.text-darkorange-bold {
+	font-weight: bold !important;
+	color: darkorange !important;
+}
+
+.bg-darkorange {
+	background-color: darkorange;
+}
+
+.bg-blueklein {
+	background-color: #002fa7 !important;
+}
+
+.btn-outline-darkorange {
+	color: darkorange;
+	border-color: darkorange;
+}
+
+.btn-outline-darkorange:hover{
+	background-color: darkorange;
+	color: white;
+	border-color: transparent;
+}
+
+.btn-klein{
+	background-color: #002fa7;
+	color: white;	
+	border-color: transparent;
+}
+.bg-dark-oppacity{
+	background-color: #33333396;
+	border-radius: 10px;
+}
