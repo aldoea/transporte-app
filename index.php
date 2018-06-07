@@ -16,7 +16,7 @@
         <div class="carousel-caption bg-dark-oppacity text-left">
           <h1>Lujo sin precedentes</h1>
           <p>Viaja con todas las comodides que te mereces, contamos con las mejores unidades y el mejor servicio.</p>
-          <p><a class="btn btn-lg btn-primary" href="transportes.php" role="button">Viaja ahora</a></p>
+          <p><a class="btn btn-lg btn-darkorange" href="transportes.php" role="button">Viaja ahora</a></p>
         </div>
       </div>
     </div>
@@ -26,7 +26,7 @@
         <div class="carousel-caption bg-dark-oppacity">
           <h1>El mejor servicio a tu medida</h1>
           <p>Contamos con gran variedad de opciones adecuadas a tus gustos y necesidades, encuentra tu transporte ideal al mejor precio.</p>
-          <p><a class="btn btn-lg btn-primary" href="transportes.php" role="button">Viaja ahora</a></p>
+          <p><a class="btn btn-lg btn-darkorange" href="transportes.php" role="button">Viaja ahora</a></p>
         </div>
       </div>
     </div>
@@ -36,7 +36,7 @@
         <div class="carousel-caption bg-dark-oppacity text-right">
           <h1>¿Negocios o placer?</h1>
           <p>No importa cuál sea el motivo de tu viaje, te acompañamos desde el primer momento de tu viaje para que sea la experiencia más placentera posible.</p>
-          <p><a class="btn btn-lg btn-primary" href="transportes.php" role="button">Viaja ahora</a></p>
+          <p><a class="btn btn-lg btn-darkorange" href="transportes.php" role="button">Viaja ahora</a></p>
         </div>
       </div>
     </div>

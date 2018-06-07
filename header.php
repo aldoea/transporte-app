@@ -1,6 +1,7 @@
 <?php  
   include "dreamtour.class.php";
   $dreamtour = new Dreamtour;
+  $dreamtour->conexion();
 ?>
 <!doctype html>
 <html lang="es">
@@ -17,6 +18,8 @@
     <link href="css/sticky-footer-navbar.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet" type="text/css">
     <link href="css/carousel.css" rel="stylesheet">
+    <link rel="shortcut icon" href="https://cdn1.vectorstock.com/i/1000x1000/36/85/electric-bus-icon-vector-19713685.jpg">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
 
   </head>
   <body>    
@@ -50,9 +53,13 @@
               ';
             }else{
               echo '
-                <ul class="navbar-nav flex-row ml-md-auto d-md-flex">    
-                    <li class="nav-item">
-                      <a class="nav-link p-2" href="reservaciones.php">Mis reservaciones</a>
+                <ul class="navbar-nav flex-row ml-md-auto d-md-flex">                        
+                    <li class="nav-item dropdown mr-4">
+                      <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Cuenta</a>
+                      <div class="dropdown-menu">
+                        <a class="dropdown-item" href="reservaciones.php">Mis reservaciones</a>
+                        <a class="dropdown-item" href="perfil.php">Mi perfil</a>
+                      </div>
                     </li>
                     <li class="nav-item">                
                       <a class="nav-link p-2 text-darkorange-bold" href="logout.php">Salir</a>

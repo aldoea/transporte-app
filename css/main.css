@@ -22,12 +22,30 @@
 	border-color: transparent;
 }
 
+.btn-darkorange {
+	background-color: darkorange;
+	color: white;	
+	border-color: transparent;
+}
+
+.btn-darkorange:hover {
+	color: white;
+}
+
 .btn-klein{
 	background-color: #002fa7;
 	color: white;	
 	border-color: transparent;
 }
+.text-blueklein{
+	color: #002fa7;		
+}
+
 .bg-dark-oppacity{
 	background-color: #33333396;
 	border-radius: 10px;
+}
+
+.bg-alice{
+	background-color: aliceblue;
 }
